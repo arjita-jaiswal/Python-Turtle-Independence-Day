@@ -79,7 +79,6 @@ for i in range(48):
 	t.left(90)
 	t.left(15)
 	t.left(90)
-t.forward(70*3)
 t.end_fill()
 t.down()
 
